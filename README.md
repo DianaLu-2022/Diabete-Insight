@@ -20,7 +20,6 @@ The project is organized as follows:
 - `notebooks/`: Jupyter notebooks for EDA, data preprocessing, and model training.
   - `diabete_insight.ipynb`: The main Jupyter notebook containing the analysis code.
 - `src/`: Source code for the machine learning models.
-- `results/`: Results and evaluation metrics for the trained models.
 - `report.pdf`: A detailed report documenting the analysis process.
 
 ## Getting Started
