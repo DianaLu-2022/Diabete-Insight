@@ -14,12 +14,9 @@ This repository contains the code and data for a diabetes prediction project. Th
 
 The project is organized as follows:
 
-- `data/`: Contains the dataset used for training and testing.
-  - `PimaDiabetes.csv`: Training dataset.
-  - `ToPredict.csv`: Testing dataset.
-- `notebooks/`: Jupyter notebooks for EDA, data preprocessing, and model training.
-  - `diabete_insight.ipynb`: The main Jupyter notebook containing the analysis code.
-- `src/`: Source code for the machine learning models.
+- `PimaDiabetes.csv`: Training dataset.
+- `ToPredict.csv`: Testing dataset.
+- `diabete_insight.ipynb`: The main Jupyter notebook containing the analysis code.
 - `report.pdf`: A detailed report documenting the analysis process.
 
 ## Getting Started
